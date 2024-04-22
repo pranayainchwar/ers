@@ -19,6 +19,17 @@ If you want to make an employee as admin then use the secret key :happy.
 Features
 You can review the employees. The admin has the special power to assing, the task to employee, remove the employee, add new admin, and also employee;
 
+![01](https://github.com/pranayainchwar/ers/assets/122523118/3290cd4b-539
+![register02png](https://github.com/pranayainchwar/ers/assets/122523118/c348033d-dd25-4060-a8a2-e8010101a4f0)
+2-4b83-a
+![employeelist](https://github.com/pranayainchwar/ers/assets/122523118/2c0a905d-1eff-4868-bdbc-cd85a0068d88)
+b51-6b5d9e6f11f2)
+![addmember](https://github.com/pran
+![assignwork](https://github.com/pranayainchwar/ers/assets/122523118/debd450a-dd28-43f3-afff-0a0caa1e0bfc)
+ayainchwar/ers/assets/122523118/e857a763-d0db-43ae-9247-f425615edb9a)
+![surajview03](https://github.com/pranayainchwar/ers/assets/122523118/07bc6490-ccbe-4a9d-9113-767ded741b39)
+
+
 ```
 Employee Review System
     |
